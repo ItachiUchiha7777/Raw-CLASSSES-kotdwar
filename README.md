@@ -11,5 +11,6 @@ this is a website dedicated to raw classes kotdwar
 Any additional information goes here
 
 
-## 🔗 Links
-[![click Here](https://img.shields.io/badge/Click_Here-000?style=for-the-badge&logo=ko-fi&logoColor=white)](raw-classes-kotdwara.netlify.app)
+## 🔗 Link
+[![RawClasses](https://img.shields.io/badge/Click_Here-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raw-classes-kotdwara.netlify.app/)
+
